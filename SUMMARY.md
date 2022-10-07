@@ -1,16 +1,31 @@
 # Table of contents
 
-* [README](README.md)
+* [Introduction](README.md)
 
-## Use headings to create page groups like this one​
+## Getting started
 
-* [First page's title](use-headings-to-create-page-groups-like-this-one/first-pages-title/README.md)
-  * [Some child page](use-headings-to-create-page-groups-like-this-one/first-pages-title/some-child-page.md)
-  * [Some other child page](use-headings-to-create-page-groups-like-this-one/first-pages-title/some-other-child-page.md)
-* [Second page's title](use-headings-to-create-page-groups-like-this-one/second-pages-title/README.md)
-  * [Some child page](use-headings-to-create-page-groups-like-this-one/second-pages-title/some-child-page.md)
-  * [Some other child page](use-headings-to-create-page-groups-like-this-one/second-pages-title/some-other-child-page.md)
+* [Install](getting-started/yet-another-page.md)
 
-## A second-page group​
+## Concepts
 
-* [Yet another page](a-second-page-group/yet-another-page.md)
+* [Wallet](concepts/wallet.md)
+* [Launchpad](concepts/launchpad.md)
+
+## SDK
+
+* [Authenticate](sdk/authenticate.md)
+* [Contracts](sdk/contracts/README.md)
+  * [ERC20](sdk/contracts/erc20.md)
+  * [ERC1155](sdk/contracts/erc1155.md)
+  * [ERC721](sdk/contracts/erc721.md)
+* [Wallet](sdk/wallet.md)
+
+## API
+
+* [Authentication](api/authentication.md)
+* [Collection](api/collection.md)
+* [Marketplace](api/marketplace.md)
+
+## Resources
+
+* [Github](https://github.com/mvanmeerbeck/eniblock-docs)

@@ -1,7 +1,5 @@
-# README
+# Introduction
 
-read me
+Eniblock is a all-in-one platform to design, run and scale your Web3 business.
 
-{% hint style="info" %}
-rzerezrer
-{% endhint %}
+Eniblock is on a mission to democratize access to Web3 and Digital Asset innovation so anyone can start building the world of tomorrow. Eniblock is addressing the entire Digital Asset Business value chain, from design to distribution.
